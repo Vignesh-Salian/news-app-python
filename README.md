@@ -90,4 +90,13 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ---
 
-*Built with ❤️ by [Vignesh Salian](https://github.com/Vignesh-Salian)*
+## 👨‍💻 Author
+
+<p align="left">
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://img.shields.io/badge/VIGNESH%20SALIAN-DEVELOPER-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Vignesh Salian" />
+  </a>
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://img.shields.io/github/followers/Vignesh-Salian?label=Follow&style=for-the-badge&logo=github" alt="Follow Vignesh Salian" />
+  </a>
+</p>
