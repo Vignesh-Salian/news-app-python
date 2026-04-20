@@ -71,6 +71,12 @@ Read more: https://example.com/ai-future
 
 ## 🛠️ Technologies Used
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Requests-Library-2CA5E0?style=for-the-badge" alt="Requests" />
+  <img src="https://img.shields.io/badge/News_API-Data-black?style=for-the-badge" alt="News API" />
+</p>
+
 - **Python**: Core logic and scripting.
 - **Requests Library**: For making HTTP requests to the News API.
 - **News API**: The source for global news data.
