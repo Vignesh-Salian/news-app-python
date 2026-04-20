@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# Load environment variables
+
 load_dotenv()
 
 query = input("What type of news are you interested in today: ")
